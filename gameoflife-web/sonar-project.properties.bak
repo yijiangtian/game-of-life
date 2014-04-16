@@ -1,0 +1,4 @@
+#--required metadata
+sonar.projectKey=com.github
+sonar.projectName=game-of-life
+sonar.projectVersion=
